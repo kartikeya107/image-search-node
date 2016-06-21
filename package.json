@@ -1,0 +1,15 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kartikeya SIngh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "google-images": "^1.0.0"
+  }
+}
